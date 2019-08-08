@@ -1,2 +1,7 @@
 # Special industrial rack
-[SolidWorks] Adjustment of serial produced rack for carrying particular parts and subassemblies. 🚛🚚
+
+Due to growing production there is arising a new problem where to insert made parts and subassemblies. The solution 
+
+## Intital Design
+<p float="left">
+  <img src="/Picture/SuperRack_1.PNG" width="900" /> 
