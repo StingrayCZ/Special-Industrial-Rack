@@ -12,7 +12,10 @@ The first proposal is based on aluminium profiles and contains full-bulk of part
   <img src="/Picture/SuperRack_2.PNG" width="400" /> 
 </p>
 <p float="left">
-  <img src="/Picture/SuperRack_3.PNG" width="400" /> 
+  <img src="/Picture/SuperRack_3.PNG" width="400" />
+</p>
+
+<p float="left">
   <img src="/Picture/SuperRack_4.PNG" width="400" /> 
 </p>
     
