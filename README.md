@@ -19,9 +19,11 @@ The second layout which used carbon-steel-sheet parts with
   <img src="/Picture/Rack_1.PNG" width="400" /> 
 </p>
 
-### Detail
+### Detail (empty)
 The second layout which used carbon-steel-sheet parts with 
 <p float="left">
-  <img src="/Picture/Rack_2.PNG" width="400" /> 
-  <img src="/Picture/Rack_1.PNG" width="400" /> 
+  <img src="/Picture/Rack_4.PNG" width="400" /> 
+  <img src="/Picture/Rack_5.PNG" width="400" /> 
 </p>
+<p float="left">
+  <img src="/Picture/Rack_6.PNG" width="400" /> 
