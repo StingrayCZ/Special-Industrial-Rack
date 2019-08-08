@@ -34,3 +34,4 @@ The second layout which used carbon-steel-sheet parts with
 </p>
 <p float="left">
   <img src="/Picture/Rack_6.PNG" width="400" /> 
+</p>
