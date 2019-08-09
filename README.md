@@ -1,4 +1,4 @@
-# Special industrial rack
+# Special Industrial Rack
 
 Every growing production always go hand in hand with logistics problem. Right working production facility must carry certain requirements such as effective order in warehouse for fast give in or put out finish or semi-manufactured parts for the next process. On the market we can find many companies who made a special equipment for industirual warehouses. There is certitude that some companies are able to make a professional-level solution for us but such solution must be very expensive.
 
