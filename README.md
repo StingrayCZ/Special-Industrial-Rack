@@ -21,14 +21,14 @@ The first proposal is based on aluminium profiles and contains full-bulk of part
 </p>
     
 ## Final simplified desing
-The second layout which used carbon-steel-sheet parts with 
+The second layout which used coldformed carbon-steel-sheet parts with 
 <p float="left">
   <img src="/Picture/Rack_2.PNG" width="400" /> 
   <img src="/Picture/Rack_1.PNG" width="400" /> 
 </p>
 
 ### Detail (without stored parts)
-The second layout which used carbon-steel-sheet parts with 
+The second layout which used carbon-steel-sheet parts 
 <p float="left">
   <img src="/Picture/Rack_4.PNG" width="400" /> 
   <img src="/Picture/Rack_5.PNG" width="400" /> 
