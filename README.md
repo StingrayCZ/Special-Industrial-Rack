@@ -28,7 +28,7 @@ The first proposal is based on aluminium profiles and contains full-bulk of inte
 </p>
 
 ### Detail (without stored parts)
-The second layout used carbon-steel-sheet parts with applying a protective zinc coating. The price for simplification is that the racl can carry on 80% from full-bulk of intended parts.
+The second layout used carbon-steel-sheet parts with applying a protective zinc coating. The price for simplification is that the rack can carry on 80% from full-bulk of intended parts.
 <p float="left">
   <img src="/Picture/Rack_4.PNG" width="400" /> 
   <img src="/Picture/Rack_5.PNG" width="400" /> 
