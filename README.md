@@ -20,7 +20,7 @@ The first proposal is based on aluminium profiles and contains full-bulk of inte
   <img src="/Picture/SuperRack_4.PNG" width="400" /> 
 </p>
     
-## Final simplified desing
+## Final simplified design
 <p float="left">
   <img src="/Picture/Rack_2.PNG" width="400" /> 
   <img src="/Picture/Rack_1.PNG" width="400" /> 
