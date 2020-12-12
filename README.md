@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="/Picture/PhotoRack_A.PNG" width="400" /> 
-  <img src="/Picture/PhotoRack_B.jpg" width="400" /> 
+  <img src="/Picture/PhotoRack_B.jpg" width="600" /> 
 </p>
 
 Every growing production always goes hand in hand with the logistics problem. A properly functioning production facility must carry certain requirements such as effective order in warehouse for fast give in or put out finished or semi-manufactured parts for the next process. There is certainty in that these companies are able to create a professional solution for us, but such a solution will be very expensive.
