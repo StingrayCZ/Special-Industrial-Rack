@@ -40,5 +40,7 @@ The second layout used carbon-steel-sheet parts with applying a protective zinc 
 
 <p float="left">
   <img src="/Picture/PhotoRack_A.PNG" width="400" /> 
+  </p>
+<p float="left">
   <img src="/Picture/PhotoRack_B.jpg" width="530" /> 
 </p>
